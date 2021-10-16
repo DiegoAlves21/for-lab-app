@@ -1,0 +1,29 @@
+[   
+    {
+    "tipoPessoa": "PJ",
+    "razaoSocial":"",
+    "nomeFantasia":"",
+    "cnpj":"",
+    "inscricaoEstadual":"",
+    "atividadePrincipal":"",
+    "cnae":"",
+    "formaConstituicao":"",
+    "controleAcionario":"",
+    "pais":"",
+    "enderecos": [
+        {
+            "endereco":"",
+            "numero":"",
+            "complemento":"",
+            "bairro":"",
+            "cidade":"",
+            "uf":"cep",
+            "cep":"",
+            "pais"
+        },
+        {}
+    ],
+    
+
+ }
+]
