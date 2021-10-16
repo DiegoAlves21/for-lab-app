@@ -10,20 +10,31 @@
     "formaConstituicao":"",
     "controleAcionario":"",
     "pais":"",
-    "enderecos": [
-        {
-            "endereco":"",
-            "numero":"",
-            "complemento":"",
-            "bairro":"",
-            "cidade":"",
-            "uf":"cep",
-            "cep":"",
-            "pais"
-        },
-        {}
-    ],
-    
+    "enderecoSedeSocial": {
+        "longradouro":"",
+        "numero":"",
+        "complemento":"",
+        "bairro":"",
+        "cidade":"",
+        "uf":"",
+        "cep":"",
+        "pais":""
+    },   
+    "enderecoCorrespondencia":{
+        "longradouro":"",
+        "numero":"",
+        "complemento":"",
+        "bairro":"",
+        "cidade":"",
+        "uf":"",
+        "cep":"",
+        "pais":""
+    },
+    "telefone":"",
+    "email":"",
+    "site":"",
+    "paisDomicilioFiscal":"",
+    "possuiIdentificacaoFiscal":""
 
  }
 ]
