@@ -20,18 +20,17 @@
 
             <fieldset class="clearfix">
 
-              <p ><span class="fa fa-user"></span><input type="text"  Placeholder="Username"></p> <!-- JS because of IE support; better: placeholder="Username" -->
-              <p><span class="fa fa-lock"></span><input type="password"  Placeholder="Password"></p> <!-- JS because of IE support; better: placeholder="Password" -->
+              <p ><span class="fa fa-user"></span><input type="text"  Placeholder="CPF ou CNPJ"></p> <!-- JS because of IE support; better: placeholder="Username" -->
+              <p><span class="fa fa-lock"></span><input type="password"  Placeholder="Senha"></p> <!-- JS because of IE support; better: placeholder="Password" -->
 
               <div>
-                                  <span style="width:48%; text-align:left;  display: inline-block;"><a class="small-text" href="#">Forgot
-                                  password?</a></span>
-                                  <span style="width:50%; text-align:right; margin-right: 6px;"><input type="submit" style="background-color: white; color: black;" (click)="novoUsuario()" value="Sign Up"></span>
-                                  <span style="width:50%; text-align:right;"><input type="submit" value="Sign In"></span>
-                              </div>
+                  <span style="width:48%; text-align:left;  display: inline-block;"><a class="small-text" href="#">Esqueceu a Senha?</a></span>
+                  <span style="width:50%; text-align:right; margin-right: 6px;"><input type="submit" style="background-color: white; color: black;" (click)="novoUsuario()" value="Sign Up"></span>
+                  <span style="width:50%; text-align:right;"><input type="submit" (click)="formulario()" value="Sign In"></span>
+              </div>
 
             </fieldset>
-  <div class="clearfix"></div>
+            <div class="clearfix"></div>
           </form>
 
           <div class="clearfix"></div>

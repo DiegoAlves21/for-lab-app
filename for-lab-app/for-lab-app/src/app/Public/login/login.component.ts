@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { Router, ActivatedRoute, ParamMap } from '@angular/router';
 
 @Component({
@@ -7,8 +7,8 @@ import { Router, ActivatedRoute, ParamMap } from '@angular/router';
   styleUrls: ['./login.component.scss']
 })
 export class LoginComponent implements OnInit {
-  constructor( private route: ActivatedRoute, private router: Router) {
 
+  constructor( private route: ActivatedRoute, private router: Router) {
   }
 
   ngOnInit(): void {
@@ -16,6 +16,10 @@ export class LoginComponent implements OnInit {
 
   novoUsuario(){
     this.router.navigate(['\cadastro-usuario']);
+  }
+
+  formulario(){
+    this.router.navigate(['formulario']);
   }
 
 }
