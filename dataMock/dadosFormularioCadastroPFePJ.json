@@ -1,40 +1,119 @@
-[   
+[
     {
-    "tipoPessoa": "PJ",
-    "razaoSocial":"",
-    "nomeFantasia":"",
-    "cnpj":"",
-    "inscricaoEstadual":"",
-    "atividadePrincipal":"",
-    "cnae":"",
-    "formaConstituicao":"",
-    "controleAcionario":"",
-    "pais":"",
-    "enderecoSedeSocial": {
-        "longradouro":"",
-        "numero":"",
-        "complemento":"",
-        "bairro":"",
-        "cidade":"",
-        "uf":"",
-        "cep":"",
-        "pais":""
-    },   
-    "enderecoCorrespondencia":{
-        "longradouro":"",
-        "numero":"",
-        "complemento":"",
-        "bairro":"",
-        "cidade":"",
-        "uf":"",
-        "cep":"",
-        "pais":""
-    },
-    "telefone":"",
-    "email":"",
-    "site":"",
-    "paisDomicilioFiscal":"",
-    "possuiIdentificacaoFiscal":""
-
- }
-]
+       "tipoPessoa":"PJ",
+       "razaoSocial":"CAROLINA & BRENO MANUTENÇÃO E REPARAÇÃO DE GERADORES ME",
+       "nomeFantasia":"CAROLINA E BRENO MANUTENÇÃO DE GERADORES",
+       "cnpj":"70.321.776/0001-99",
+       "inscricaoEstadual":"946.664.354.496",
+       "atividadePrincipal":"MANUTENÇÃO E REPARAÇÃO DE GERADORES",
+       "cnae":"3313901",
+       "formaConstituicao":"224-0 - Sociedade Simples e Limitada",
+       "controleAcionario":"Nacional",
+       "pais":"Brasil",
+       "enderecoSedeSocial":{
+          "longradouro":"Travessa Caxambú",
+          "numero":"391",
+          "complemento":"",
+          "bairro":"Vila Tibério",
+          "cidade":"Ribeirão Preto",
+          "uf":"SP",
+          "cep":"14050-427",
+          "pais":"Brasil"
+       },
+       "enderecoCorrespondencia":{
+          "longradouro":"Travessa Caxambú",
+          "numero":"391",
+          "complemento":"",
+          "bairro":"Vila Tibério",
+          "cidade":"Ribeirão Preto",
+          "uf":"SP",
+          "cep":"14050-427",
+          "pais":"Brasil"
+       },
+       "telefone":"(16) 2671-4395",
+       "email":"marketing@leonardoefatimagraficame.com.br",
+       "site":"www.leonardoefatimagraficame.com.br",
+       "paisDomicilioFiscal":"Brasil",
+       "possuiIdentificacaoFiscalNoExterior":"Não",
+       "detalhesFiscaisEmOutroPais":[
+          {
+             "pais":"",
+             "numero":"",
+             "justificaNIF":"",
+             "beneficiarioDispensadoNIF":"",
+             "paisNaoExigeNif":""
+          }
+       ],
+       "fundosDeInvestimento":[
+          {
+             "razaoSocial":"",
+             "CNPJ":"",
+             "contaCETIP":""
+          }
+       ],
+       "DadosBancarios":[
+          {
+             "numeroDeContas":"1",
+             "bancos":[
+                {
+                   "banco":"Santander",
+                   "numeroBanco":"033",
+                   "agencia":"0260",
+                   "numeroConta":"01512044-1"
+                }
+             ]
+          }
+       ],
+       "situacaoPatrimonial":"100.001",
+       "faturamentoMedio":"500.000",
+       "participacoesSocietaria":[
+          {
+             "numeroDeParticipacoes":"0",
+             "empresas":[
+                {
+                   "razaoSocial":"",
+                   "cnpj":"",
+                   "nacionalidade":"",
+                   "capitalSocial":"",
+                   "percentualCapital":""
+                }
+             ]
+          }
+       ],
+       "sociedadeColigadas":[
+          {
+             "numeroDeSociedade":"0",
+             "empresas":[
+                {
+                   "razaoSocial":"",
+                   "cnpj":"",
+                   "nacionalidade":""
+                }
+             ]
+          }
+       ],
+       "referenciasComerciais":[
+          {
+             "nome":"Nelson Murilo Ian das Neves",
+             "dd":"(41)",
+             "telefone":"3992-4046"
+          },
+          {
+             "nome":"Márcia Emilly da Mota",
+             "dd":"(11)",
+             "telefone":"3674-6319"
+          }
+       ],
+       "declaracaoDoCliente":[
+          {
+             "declaracaoDoCliente1":"Sim",
+             "declaracaoDoCliente2":"Sim"
+          }
+       ],
+       "local":"São Paulo",
+       "dataAssinatura":"10/16/2021",
+       "assinaturaRepresentante1":"",
+       "assinaturaRepresentante2":"",
+       "assinaturaDoc":""
+    }
+ ]
