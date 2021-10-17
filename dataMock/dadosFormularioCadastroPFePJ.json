@@ -115,5 +115,130 @@
        "assinaturaRepresentante1":"",
        "assinaturaRepresentante2":"",
        "assinaturaDoc":""
-    }
+    },
+    {
+        "tipoPessoa":"PF",
+        "tipoConta":"I",
+        "formasRepresentacao":"",
+        "nomeCompleto":"Milton Pereira",
+        "cpf":"802.781.200-32",
+        "dataNascimento":"28/02/1993",
+        "sexo":"M",
+        "nacionalidade":"Brasil / Brazil",
+        "naturalidade":"Nilópolis",
+        "tipoDocumentoID":"Carteira de Identidade (RG) / Identity Card (ID)",
+        "numeroID":"28.140.665-4",
+        "orgaoEmissorID":"Detran",
+        "dataEmissaoID":"20/04/2010",
+        "nomeMae":"Evangelina Pereira",
+        "nomePai":"Milton Rodrigues",
+        "estadoCivil":"Casado",
+        "nomeConjuge":"Gabriela Pereira",
+        "paisDomicilioFiscal":"Brasil / Brazil",
+        "paisDFNIF":"N/A",
+        "outroPaisDomicilioFiscal":"",
+        "outroPaisDFNIF":"",
+        "possuiOutraCidadania":"N",
+        "contatos":[
+           {
+              "identificadorPais":"+55",
+              "ddd":"11",
+              "numero":"98567-8187",
+              "email":"milton.pereira.jr@outlook.com"
+           }
+        ],
+        "enderecoResidencial":[
+           {
+              "endereco":"Av Paes de Barros",
+              "numero":"2643",
+              "complemento":"Apto 151",
+              "bairro":"Mooca",
+              "cep":"03115001",
+              "cidade":"São Paulo",
+              "uf":"SP",
+              "pais":"Brasil / Brazil"
+           }
+        ],
+        "informacoesProfissionais":[
+           {
+              "situacaoProfissional":"Ativo",
+              "ocupacaoProfissional":"Consultant Developer",
+              "empresa":"MPJ Consultoria & Sistemas",
+              "CNPJ":"47.836.464/0001-04"
+           }
+        ],
+        "enderecoComercial":[
+           {
+              "endereco":"Av Paes de Barros",
+              "numero":"2643",
+              "complemento":"Apto 151",
+              "bairro":"Mooca",
+              "cep":"03115001",
+              "cidade":"São Paulo",
+              "uf":"SP",
+              "pais":"Brasil / Brazil"
+           }
+        ],
+        "enderecoCorrespondencia":[
+           {
+              "tipoEndereco":"R",
+              "endereco":"Av Paes de Barros",
+              "numero":"2643",
+              "complemento":"Apto 151",
+              "bairro":"Mooca",
+              "cep":"03115001",
+              "cidade":"São Paulo",
+              "uf":"SP",
+              "pais":"Brasil / Brazil",
+              "redeberExtratoMensal":"N"
+           }
+        ],
+        "dadosFinanceiros":[
+           {
+              "tipoRendaPatrimonio":"N/A",
+              "origemRecursosPatrimonio":"1",
+              "origemRecursosPatrimonioEspecificado":"",
+              "rendaMensal":"4",
+              "rendaMensalEspecificado":"",
+              "outrosRendimentosAnualEspecificado":"",
+              "patrimonioTotal":"2",
+              "patrimonioMensalEspecificado":"",
+              "origemOutrosRendimentosEspecificado":""
+           }
+        ],
+        "contasBancarias":[
+           {
+              "quantidadeContas":"1",
+              "contasUm":{
+                 "investidor":"1",
+                 "banco":"341 - BANCO ITAÚ S.A.",
+                 "agencia":"3032",
+                 "conta":"32770",
+                 "digito":"6"
+              },
+              "contaDois":{
+                 "investidor":"",
+                 "banco":"",
+                 "agencia":"",
+                 "conta":"",
+                 "digito":""
+              },
+              "contaTres":{
+                 "investidor":"",
+                 "banco":"",
+                 "agencia":"",
+                 "conta":"",
+                 "digito":""
+              }
+           }
+        ],
+        "declaracoesInvestidor":[
+           {
+              "investidorVinculadoBNY":"N",
+              "investidorUSPerson":"N",
+              "investidorPolicamenteExposto":"N",
+              "autorizaTransmissaoInformacao":"N"
+           }
+        ]
+     }
  ]
